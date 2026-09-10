@@ -60,7 +60,7 @@ Execute the audit suite to verify data integrity:
 python validate_dataset.py
 ```
 ----
-##Kaggle Daataset
+Kaggle Daataset
 https://www.kaggle.com/datasets/mobeenfatimah/gridworld-rl-trajectories100k-agent-decision-logs
 ## License
 
